@@ -1,1 +1,1 @@
-A full-stack playground for CRUD, React, FastAPI, AWS and system design experiments. (Personal)
+Employee Lookup System: Basic CRUD App using React, Redux, FastAPI
